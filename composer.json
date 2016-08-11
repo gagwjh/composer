@@ -1,0 +1,12 @@
+{
+  "name": "gagwjh/test",
+  "description": "composer test",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "gagwjh",
+      "email": "gagwjh@nate.com"
+    }
+  ]
+}
