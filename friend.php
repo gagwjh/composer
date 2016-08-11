@@ -8,4 +8,7 @@
  */
 class friend
 {
+    public function __construct()
+    {
+    }
 }
